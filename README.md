@@ -24,7 +24,7 @@ A cross-platform desktop music player application built with Electron for BSc (H
 1. Clone this repository:
    ```
    git clone https://github.com/joaoricardoroma/Music-Player.git
-    cd Music-Player
+   cd Music-Player
    ```
 
 2. Install dependencies:
