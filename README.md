@@ -34,7 +34,7 @@ A cross-platform desktop music player application built with Electron for BSc (H
 
 3. Start the application:
    ```
-   npm start
+   npm start 
    ```
 
 ## Usage
